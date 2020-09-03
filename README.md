@@ -1,2 +1,2 @@
-# F-ZERO-corexy
+#ZERO-G-corexy
 open source corexy for most cube style 2020 extrusion frames 
